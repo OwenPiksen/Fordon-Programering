@@ -1,0 +1,16 @@
+C:\Users\KADM\Downloads\FordonSortering-main\bin\Debug\net5.0\exempelComparable.exe
+C:\Users\KADM\Downloads\FordonSortering-main\bin\Debug\net5.0\exempelComparable.deps.json
+C:\Users\KADM\Downloads\FordonSortering-main\bin\Debug\net5.0\exempelComparable.runtimeconfig.json
+C:\Users\KADM\Downloads\FordonSortering-main\bin\Debug\net5.0\exempelComparable.runtimeconfig.dev.json
+C:\Users\KADM\Downloads\FordonSortering-main\bin\Debug\net5.0\exempelComparable.dll
+C:\Users\KADM\Downloads\FordonSortering-main\bin\Debug\net5.0\ref\exempelComparable.dll
+C:\Users\KADM\Downloads\FordonSortering-main\bin\Debug\net5.0\exempelComparable.pdb
+C:\Users\KADM\Downloads\FordonSortering-main\obj\Debug\net5.0\exempelComparable.csproj.AssemblyReference.cache
+C:\Users\KADM\Downloads\FordonSortering-main\obj\Debug\net5.0\exempelComparable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KADM\Downloads\FordonSortering-main\obj\Debug\net5.0\exempelComparable.AssemblyInfoInputs.cache
+C:\Users\KADM\Downloads\FordonSortering-main\obj\Debug\net5.0\exempelComparable.AssemblyInfo.cs
+C:\Users\KADM\Downloads\FordonSortering-main\obj\Debug\net5.0\exempelComparable.csproj.CoreCompileInputs.cache
+C:\Users\KADM\Downloads\FordonSortering-main\obj\Debug\net5.0\exempelComparable.dll
+C:\Users\KADM\Downloads\FordonSortering-main\obj\Debug\net5.0\ref\exempelComparable.dll
+C:\Users\KADM\Downloads\FordonSortering-main\obj\Debug\net5.0\exempelComparable.pdb
+C:\Users\KADM\Downloads\FordonSortering-main\obj\Debug\net5.0\exempelComparable.genruntimeconfig.cache
